@@ -1,0 +1,22 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/colorGame.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllenLin0321/Color-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllenLin0321/Color-Game/issues"
+  },
+  "homepage": "https://github.com/AllenLin0321/Color-Game#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
